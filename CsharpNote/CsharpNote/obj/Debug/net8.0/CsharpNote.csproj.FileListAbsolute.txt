@@ -1,0 +1,15 @@
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\bin\Debug\net8.0\CsharpNote.exe
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\bin\Debug\net8.0\CsharpNote.deps.json
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\bin\Debug\net8.0\CsharpNote.runtimeconfig.json
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\bin\Debug\net8.0\CsharpNote.dll
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\bin\Debug\net8.0\CsharpNote.pdb
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\CsharpNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\CsharpNote.AssemblyInfoInputs.cache
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\CsharpNote.AssemblyInfo.cs
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\CsharpNote.csproj.CoreCompileInputs.cache
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\CsharpNote.sourcelink.json
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\CsharpNote.dll
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\refint\CsharpNote.dll
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\CsharpNote.pdb
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\CsharpNote.genruntimeconfig.cache
+C:\Users\ZeroDarkMos\Desktop\게임 프로그래밍 개발자 과정\국기수업 유니티 게임프로그래밍 개발자 과정\자습용 노트\CSharpStudyNote\CsharpNote\CsharpNote\obj\Debug\net8.0\ref\CsharpNote.dll
