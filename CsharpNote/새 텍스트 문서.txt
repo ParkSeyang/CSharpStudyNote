@@ -1,0 +1,8 @@
+    // 캡슐화를 잘쓰는법 프로퍼티 get; set;을 응용하면 된다.
+    // 읽기만하게하는법
+    // public 자료형 변수명 { get { return 변수명;}
+    // 클래스내부에서만 값을 읽고 수정하게하는법
+    // public 자료형 변수명 { get { return 변수명; } set { 변수명 = value; } }
+    // value는 set에서 매개변수역할을해주는 키워드이다 get,set,value;
+    public float AngleX { get { return angleX; } set { angleX = value; } }
+    public float AngleY { get { return angleY; } set { angleY = value; } }
